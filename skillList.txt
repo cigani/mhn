@@ -1,0 +1,59 @@
+Attack Boost
+Critical Eye
+Affinity Sliding
+Water Attack
+Fire Attack
+Thunder Attack 
+Ice Attack 
+Poison Attack 
+Paraylsis Attack
+Artillery
+Special Ammo Boost
+Defense boost
+Water Resistance
+Thunder Resistance
+Fire Resistance
+Ice Resistance
+Poison Resistance
+Paralysis Resistance
+Stun Restistance
+Windproof
+Muck Resistance
+Evade Extender
+Evade Window
+Stealth
+Constitution
+Marathon Runner
+Stamina Thief
+Hunger Resistance
+Master Gatherer
+Scoutfly Range Up
+Slinger Capacity
+Scenthount
+BBQ Master
+Health Boost
+Slugger
+Horn Maestro
+Entomologist
+Quick Sheath
+Honey Hunter
+Aquatic Expert
+Speed Eating
+Intimidator
+Palico Rall
+Fortify
+Speed Crawler
+Stamina Surge
+Pro Transporter
+Item Prolonger
+Speed Sharpening
+Sporepuff Expert
+Botanist
+Guard
+Focus
+Jump Master
+Master Mounter
+Cliffhanger
+Recovery Up
+Recovery Speed
+Adrenaline
